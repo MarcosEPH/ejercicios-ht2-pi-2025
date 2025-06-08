@@ -1,0 +1,26 @@
+{
+  "name": "practiva",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marcos perez",
+  "license": "ISC",
+  "description": "Este repositorio contiene **ejercicios prácticos** organizados por tema y nivel de dificulta.  \r Los ejercicios están pensados para reforzar los conocimientos adquiridos durante el curso de Programación I y prepararlos para el examen final.",
+  "devDependencies": {
+    "@types/readline-sync": "^1.4.8"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcosEPH/ejercicios-ht2-pi-2025.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/MarcosEPH/ejercicios-ht2-pi-2025/issues"
+  },
+  "homepage": "https://github.com/MarcosEPH/ejercicios-ht2-pi-2025#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
